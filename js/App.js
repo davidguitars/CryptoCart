@@ -141,6 +141,7 @@ const alertFinalizacion = () => {
         'success'
 
     )
+    localStorage.setItem('cardItem', JSON.stringify([]))
     setTimeout(() => location.href = "index.html", 3000);
 
 
