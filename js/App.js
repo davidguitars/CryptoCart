@@ -141,7 +141,7 @@ const alertFinalizacion = () => {
         'success'
 
     )
-    setTimeout(() => location.href = "../index.html", 3000);
+    setTimeout(() => location.href = "index.html", 3000);
 
 
 
